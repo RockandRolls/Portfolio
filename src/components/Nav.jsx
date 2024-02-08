@@ -1,6 +1,6 @@
 const Nav = () => {
     return (
-      <nav className="flex">        
+      <nav className="fixed top-0 left-5 flex ">        
         <h2 className="w-9/12 text-blue-600 p-3.5">RI</h2>         
         <div className="flex gap-5 p-3.5">
           <p>About</p>  
